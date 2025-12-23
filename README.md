@@ -17,7 +17,7 @@ A tool to generate VFNT font files for FreeBSD VT console, integrating ASCII VFN
 
 ## Dependencies
 - Python 3.x
-- freetype-py (`pip install freetype-py`)
+- freetype-py (`sudo pkg install freetype-py`)
 
 ## Usage
 ```bash
